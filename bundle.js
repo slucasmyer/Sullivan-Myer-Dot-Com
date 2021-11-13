@@ -1,21 +1,21 @@
 var projectList = [
   {
-    title: 'Oregon State Coursework',
-    hash: 'osu-coursework',
+    title: 'digiYo',
+    hash: 'digiyo-showcase',
     links: [
       {
-        href: 'https://github.com/slucasmyer/Oregon-State-University',
-        text: 'GitHub Repository',
+        href: 'https://github.com/slucasmyer/digiyo-showcase',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
-    timeframe: 'Jan 2019 - Present',
+    timeframe: 'Jul 2021 - Present',
     category: 'ongoing',
     tags: ['OOP', 'Data Structures', 'Algorithms'],
     headline: true,
     img: {
       src: '/static/projects/osu.jpg',
-      alt: 'Oregon State Coursework',
+      alt: 'digiYo',
     },
     videoSrc: '/static/projects/',
     backupVideoSrc: '/static/projects/',
@@ -27,7 +27,7 @@ var projectList = [
     links: [
       {
         href: 'https://github.com/slucasmyer/My-Website',
-        text: 'GitHub Repository',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
@@ -49,7 +49,7 @@ var projectList = [
     links: [
       {
         href: 'https://github.com/slucasmyer/TSLA-from-Twitter',
-        text: 'GitHub Repository',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
@@ -71,7 +71,7 @@ var projectList = [
     links: [
       {
         href: 'https://github.com/slucasmyer/Sudoku-Solver',
-        text: 'GitHub Repository',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
@@ -92,7 +92,7 @@ var projectList = [
     links: [
       {
         href: 'https://github.com/slucasmyer/NFL-Draft-Predictions',
-        text: 'GitHub Repository',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
@@ -113,7 +113,7 @@ var projectList = [
     links: [
       {
         href: 'https://github.com/slucasmyer/Gess',
-        text: 'GitHub Repository',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
@@ -134,7 +134,7 @@ var projectList = [
     links: [
       {
         href: 'https://github.com/slucasmyer/COVID-Clustering',
-        text: 'GitHub Repository',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
@@ -156,7 +156,7 @@ var projectList = [
     links: [
       {
         href: 'https://github.com/slucasmyer/Hash-and-Heap',
-        text: 'GitHub Repository',
+        text: 'GitHub',
         icon: 'github',
       },
     ],
