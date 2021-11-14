@@ -17,8 +17,8 @@ var projectList = [
       src: '/static/projects/digiyo.png',
       alt: 'digiYo',
     },
-    videoSrc: '/static/projects/',
-    backupVideoSrc: '/static/projects/',
+    videoSrc: '/static/projects/digiyo.mp4',
+    backupVideoSrc: '/static/projects/digiyo.mp4',
     body: `NFT minting, purchase, and trading platform built on the <a href="https://onflow.org" target="_blank">Flow Blockchain</a> by <a href="https://dapperlabs.com" target="_blank">Dapper Labs</a>.`,
   },
   {
