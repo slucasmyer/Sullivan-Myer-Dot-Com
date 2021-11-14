@@ -11,15 +11,15 @@ var projectList = [
     ],
     timeframe: 'Jul 2021 - Present',
     category: 'ongoing',
-    tags: ['OOP', 'Data Structures', 'Algorithms'],
+    tags: ['Blockchain', 'NodeJS', 'SQL'],
     headline: true,
     img: {
-      src: '/static/projects/osu.jpg',
+      src: '/static/projects/digiyo.png',
       alt: 'digiYo',
     },
     videoSrc: '/static/projects/',
     backupVideoSrc: '/static/projects/',
-    body: `Not so much a self-contained project as an overview of my progression toward a Computer Science degree. It's been a tough road, including several stops and starts, but it's certainly been rewarding. I've defintely enjoyed some classes more than others, and surprisingly my favorites have actually turned out to be two classes I expected to be a slog (Data Structures and Computer Architecture & Assembly Language). Go figure.`,
+    body: `NFT minting, purchase, and trading platform built on the <a href="https://onflow.org" target="_blank">Flow Blockchain</a> by <a href="https://dapperlabs.com" target="_blank">Dapper Labs</a>.`,
   },
   {
     title: 'This Website Itself',
