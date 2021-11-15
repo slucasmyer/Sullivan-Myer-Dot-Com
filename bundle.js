@@ -523,6 +523,7 @@ document.addEventListener('click', (event) => {
     setActiveNavLink(target.pathname);
     moveDashedLine();
   }
+  window.history.pushState({ data: 'Sullivan Myer' },'Sullivan Myer', '/');
 });
 
 onpopstate = () => {
