@@ -11,7 +11,7 @@ var projectList = [
     ],
     timeframe: 'Jul 2021 - Present',
     category: 'ongoing',
-    tags: ['Blockchain', 'NodeJS', 'SQL'],
+    tags: ['Cadence', 'Bash', 'NodeJS', 'SQL', 'OAuth2'],
     headline: true,
     img: {
       src: '/static/projects/digiyo.png',
@@ -19,7 +19,7 @@ var projectList = [
     },
     videoSrc: '/static/projects/digiyo.mp4',
     backupVideoSrc: '/static/projects/digiyo.mp4',
-    body: `NFT minting, purchase, and trading platform built on the <a href="https://onflow.org" target="_blank">Flow Blockchain</a> by <a href="https://dapperlabs.com" target="_blank">Dapper Labs</a>.`,
+    body: `NFT minting, purchase, and trading platform built on the <a href="https://onflow.org" target="_blank">Flow Blockchain</a> by <a href="https://dapperlabs.com" target="_blank">Dapper Labs</a>.<br/><br/>View the live site <a href="https://digiyo.io" target="_blank">Here</a>.`,
   },
   {
     title: 'This Website Itself',
