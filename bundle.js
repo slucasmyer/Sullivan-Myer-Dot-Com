@@ -41,7 +41,7 @@ var projectList = [
     },
     videoSrc: '/static/projects/',
     backupVideoSrc: '/static/projects/',
-    body: `Take a look around. It'll be way more informative than the source code.`,
+    body: `Take a look around, or view the source code <a href="https://github.com/slucasmyer/Sullivan-Myer-Dot-Com" target="_blank">here</a>.`,
   },
   {
     title: 'TSLA from $TSLA',
