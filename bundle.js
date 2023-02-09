@@ -1,4 +1,5 @@
 var projectList = [
+  
   {
     title: 'digiYo',
     hash: 'digiyo-showcase',
@@ -11,7 +12,7 @@ var projectList = [
     ],
     timeframe: 'Jul 2021 - Present',
     category: 'ongoing',
-    tags: ['Cadence', 'Bash', 'NodeJS', 'SQL', 'OAuth2'],
+    tags: ['TypeScript', 'Go', 'NodeJS', 'Cadence', 'Rust', 'AWS'],
     headline: true,
     img: {
       src: '/static/projects/digiyo.png',
