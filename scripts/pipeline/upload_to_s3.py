@@ -22,7 +22,8 @@ def main():
         response = client.upload_file(
             Filename=file,
             Bucket=bucket_name,
-            Key=file
+            Key=file,
+            ExtraArgs={'ContentType': 'text/html'}
         )
         print(response)
     print ('Done uploading')
