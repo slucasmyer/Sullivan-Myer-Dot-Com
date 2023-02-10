@@ -84,6 +84,10 @@ a:visited {
 a:hover {
   opacity: 0.4; }
 
+#landing-img {
+  border-radius: 2.5vw;
+}
+
 .macintosh {
   position: relative; }
   .macintosh > img {

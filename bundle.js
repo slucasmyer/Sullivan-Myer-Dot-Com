@@ -36,7 +36,7 @@ var projectList = [
     tags: ['NodeJS', 'Go', 'Python', 'Rust', 'Next.js', 'React', 'MUI', 'TypeScript', 'AWS'],
     headline: true,
     img: {
-      src: '/static/projects/mighty-logo-green.gif',
+      src: '/static/projects/mighty-logo-green.svg',
       alt: 'Mighty Delivery',
     },
     videoSrc: '/static/projects/mighty-laydown.webm',
