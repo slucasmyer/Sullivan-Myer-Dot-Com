@@ -66,6 +66,50 @@ var projectList = [
     body: `A bare-metal operating system written in Rust. This project is inspired by the <a href="https://os.phil-opp.com/" target="_blank">Writing an OS in Rust</a> series by Philipp Oppermann.`,
   },
   {
+    title: 'This Website Itself',
+    hash: 'this-website-itself',
+    links: [
+      {
+        href: 'https://github.com/slucasmyer/My-Website',
+        text: 'GitHub',
+        icon: 'github',
+      },
+    ],
+    timeframe: 'Dec 2020 - present',
+    category: 'ongoing',
+    tags: ['JavaScript', 'HTML', 'CSS', 'Python', 'Bash', 'AWS'],
+    headline: true,
+    img: {
+      src: '/static/projects/amazed.jpg',
+      alt: 'You are already here.',
+    },
+    videoSrc: '/static/projects/',
+    backupVideoSrc: '/static/projects/',
+    body: `Take a look around, or view the source code <a href="https://github.com/slucasmyer/Sullivan-Myer-Dot-Com" target="_blank">here</a>.`,
+  },
+  {
+    title: 'Github Blog',
+    hash: 'github-blog',
+    links: [
+      {
+        href: 'https://github.com/slucasmyer/slucasmyer.github.io',
+        text: 'GitHub',
+        icon: 'github',
+      },
+    ],
+    timeframe: 'Nov 2022 - present',
+    category: 'ongoing',
+    tags: ['Next.js', 'TypeScript', 'Blog', 'GitHub Pages'],
+    headline: true,
+    img: {
+      src: '/static/projects/osu.jpg',
+      alt: 'GitHub Blog',
+    },
+    videoSrc: '/static/projects/',
+    backupVideoSrc: '/static/projects/',
+    body: `A blog hosted on GitHub Pages, built with Next.js and TypeScript. View the live site <a href="https://slucasmyer.github.io" target="_blank">here</a>.`,
+  },
+  {
     title: 'digiYo',
     hash: 'digiyo-showcase',
     links: [
@@ -86,28 +130,6 @@ var projectList = [
     videoSrc: '/static/projects/digiyo.mp4',
     backupVideoSrc: '/static/projects/digiyo.mp4',
     body: `NFT minting, purchase, and trading platform built on the <a href="https://onflow.org" target="_blank">Flow Blockchain</a> by <a href="https://dapperlabs.com" target="_blank">Dapper Labs</a>.<br/><br/>View the live site <a href="https://digiyo.io" target="_blank">Here</a>.`,
-  },
-  {
-    title: 'This Website Itself',
-    hash: 'this-website-itself',
-    links: [
-      {
-        href: 'https://github.com/slucasmyer/My-Website',
-        text: 'GitHub',
-        icon: 'github',
-      },
-    ],
-    timeframe: 'Dec 2020 - present',
-    category: 'ongoing',
-    tags: ['JavaScript', 'HTML', 'CSS', 'Framework Free'],
-    headline: true,
-    img: {
-      src: '/static/projects/amazed.jpg',
-      alt: 'You are already here.',
-    },
-    videoSrc: '/static/projects/',
-    backupVideoSrc: '/static/projects/',
-    body: `Take a look around, or view the source code <a href="https://github.com/slucasmyer/Sullivan-Myer-Dot-Com" target="_blank">here</a>.`,
   },
   {
     title: 'Rust Reverse-Proxy',
