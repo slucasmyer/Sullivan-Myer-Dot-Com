@@ -1,5 +1,48 @@
 var projectList = [
-  
+  {
+    title: 'The Third Transformation',
+    hash: 'the-third-transformation',
+    links: [
+      {
+        href: 'https://github.com/3tf-lab/3tf-site',
+        text: 'GitHub',
+        icon: 'github',
+      }
+    ],
+    timeframe: 'Apr 2022 - Present',
+    category: 'ongoing',
+    tags: ['Next.js', 'React', 'MUI', 'TypeScript', 'AWS'],
+    headline: true,
+    img: {
+      src: '/static/projects/3tf.svg',
+      alt: 'The Third Transformation',
+    },
+    videoSrc: '/static/projects/',
+    backupVideoSrc: '/static/projects/',
+    body: `The website for my company, <a href="https://thethirdtransformation.com" target="_blank">The Third Transformation, LLC</a>, a full-stack software development firm specializing in web applications and blockchain-based solutions for small businesses.`,
+  },
+  {
+    title: 'Mighty Delivery',
+    hash: 'mighty-delivery',
+    links: [
+      {
+        href: 'https://github.com/mighty-lab',
+        text: 'GitHub',
+        icon: 'github',
+      }
+    ],
+    timeframe: 'Jul 2022 - Present',
+    category: 'ongoing',
+    tags: ['NodeJS', 'Go', 'Python', 'Rust', 'Next.js', 'React', 'MUI', 'TypeScript', 'AWS'],
+    headline: true,
+    img: {
+      src: '/static/projects/mighty-logo-green.gif',
+      alt: 'Mighty Delivery',
+    },
+    videoSrc: '/static/projects/mighty-laydown.webm',
+    backupVideoSrc: '/static/projects/mighty-laydown.webm',
+    body: `Members-only Website and internal CRM for <a href="https://www.mighty-delivery.com" target="_blank">Mighty Delivery</a>, a full-service cannabis club based in New York City.`,
+  },
   {
     title: 'digiYo',
     hash: 'digiyo-showcase',
@@ -10,7 +53,7 @@ var projectList = [
         icon: 'github',
       },
     ],
-    timeframe: 'Jul 2021 - Present',
+    timeframe: 'Oct 2021 - Present',
     category: 'ongoing',
     tags: ['TypeScript', 'Go', 'NodeJS', 'Cadence', 'Rust', 'AWS'],
     headline: true,
