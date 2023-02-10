@@ -44,6 +44,28 @@ var projectList = [
     body: `Members-only Website and internal CRM for <a href="https://www.mighty-delivery.com" target="_blank">Mighty Delivery</a>, a full-service cannabis club based in New York City.`,
   },
   {
+    title: 'RustOS',
+    hash: 'rust-os',
+    links: [
+      {
+        href: 'https://github.com/slucasmyer/RustOS',
+        text: 'GitHub',
+        icon: 'github',
+      },
+    ],
+    timeframe: 'Jan 2023 - present',
+    category: 'ongoing',
+    tags: ['Bare-Metal', 'OS', 'Rust', 'Fundamentals'],
+    headline: true,
+    img: {
+      src: '/static/projects/rust-gear.jpg',
+      alt: 'RustOS',
+    },
+    videoSrc: '/static/projects/',
+    backupVideoSrc: '/static/projects/',
+    body: `A bare-metal operating system written in Rust. This project is inspired by the <a href="https://os.phil-opp.com/" target="_blank">Writing an OS in Rust</a> series by Philipp Oppermann.`,
+  },
+  {
     title: 'digiYo',
     hash: 'digiyo-showcase',
     links: [
