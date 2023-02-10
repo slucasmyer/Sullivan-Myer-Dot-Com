@@ -122,7 +122,7 @@ var projectList = [
     category: 'completed',
     tags: ['Rust', 'Blockchain', 'Cryptograpy', 'Hashing'],
     img: {
-      src: '/static/projects/blockchain-icon.png',
+      src: '/static/projects/blockchain-icon.svg',
       alt: 'Rust Minimal-Blockchain',
     },
     videoSrc: '/static/projects/',
