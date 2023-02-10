@@ -88,6 +88,70 @@ var projectList = [
     body: `Take a look around, or view the source code <a href="https://github.com/slucasmyer/Sullivan-Myer-Dot-Com" target="_blank">here</a>.`,
   },
   {
+    title: 'Rust Reverse-Proxy',
+    hash: 'rust-reverse-proxy',
+    links: [
+      {
+        href: 'https://github.com/slucasmyer/reverse-proxy-w-cache-rust',
+        text: 'GitHub',
+        icon: 'github',
+      },
+    ],
+    timeframe: 'Nov 2022',
+    category: 'completed',
+    tags: ['Rust', 'API', 'Reverse-Proxy', 'Cache'],
+    img: {
+      src: '/static/projects/reverse-proxy.jpg',
+      alt: 'Reverse-Proxy with Cache in Rust',
+    },
+    videoSrc: '/static/projects/',
+    backupVideoSrc: '/static/projects/',
+    body: `Rudimentary reverse-proxy with cache written in Rust. This was a fun project to learn the basics of Rust and to gain a better understanding of how reverse-proxies work.`,
+  },
+  {
+    title: 'Rust Minimal-Blockchain',
+    hash: 'rust-minimal-blockchain',
+    links: [
+      {
+        href: 'https://github.com/slucasmyer/minimal-blockchain',
+        text: 'GitHub',
+        icon: 'github',
+      },
+    ],
+    timeframe: 'Jan 2023',
+    category: 'completed',
+    tags: ['Rust', 'Blockchain', 'Cryptograpy', 'Hashing'],
+    img: {
+      src: '/static/projects/blockchain-icon.png',
+      alt: 'Rust Minimal-Blockchain',
+    },
+    videoSrc: '/static/projects/',
+    backupVideoSrc: '/static/projects/',
+    body: `A minimal blockchain written in Rust. While I've been working on the application layer of blockchain technology for the past few years, this was the first time I've written a blockchain from scratch.`,
+  },
+  {
+    title: 'Rust API',
+    hash: 'rust-api',
+    links: [
+      {
+        href: 'https://github.com/slucasmyer/rust-api',
+        text: 'GitHub',
+        icon: 'github',
+      },
+    ],
+    timeframe: 'Dec 2022',
+    category: 'completed',
+    tags: ['Rust', 'API', 'Warp', 'Tokio', 'Serde'],
+    headline: true,
+    img: {
+      src: '/static/projects/rustacean.svg',
+      alt: 'Rust API',
+    },
+    videoSrc: '/static/projects/',
+    backupVideoSrc: '/static/projects/',
+    body: `A simple API written in Rust with the goal of progressing beyond the examples in the <a href="https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html" target="_blank">Rust Book</a>.`,
+  },
+  {
     title: 'TSLA from $TSLA',
     hash: 'tsla-from-tsla',
     links: [
